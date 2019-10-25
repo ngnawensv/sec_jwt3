@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>cm.belrose.spring</groupId>
-    <artifactId>sec_jwt</artifactId>
+    <artifactId>sec_jwt3</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>sec_jwt3</name>
     <description>Demo project for Spring Boot</description>
